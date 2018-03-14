@@ -3,7 +3,7 @@ echo exec('whoami');
 if ($_GET['run']) {
   echo "past the if";
   # This code will run if ?run=true is set.
-  echo exec("/path/to/name.sh");
+  echo exec("git pull");
 }
 ?>
 
