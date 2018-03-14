@@ -1,5 +1,8 @@
 <?php
 echo exec('whoami');
+echo exec('pwd');
+echo exec('ls ~');
+echo exec('which git');
 if ($_GET['run']) {
   echo "past the if";
   # This code will run if ?run=true is set.
