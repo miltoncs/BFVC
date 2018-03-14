@@ -3,6 +3,8 @@ echo "whoami: " . exec('whoami') . "<br>";
 echo "pwd: " . exec('pwd') . "<br>";
 echo "ls ~: " . exec('ls ~') . "<br>";
 echo "which git: " . exec('which git') . "<br>";
+echo "hostname: " . exec('hostname') . "<br>";
+echo "ifconfig: " . exec('ifconfig') . "<br>";
 if ($_GET['run']) {
   echo "past the if";
   # This code will run if ?run=true is set.
