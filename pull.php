@@ -1,4 +1,4 @@
-<?php]
+<?php
 echo "whoami: " . exec('whoami') . "<br>";
 echo "pwd: " . exec('pwd') . "<br>";
 echo "ls ~: " . exec('ls ~') . "<br>";
