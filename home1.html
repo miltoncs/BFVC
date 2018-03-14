@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+Greetings.
+
+<?php
+if ($_GET['run']) {
+  # This code will run if ?run=true is set.
+  exec("git pull");
+}
+?>
+
+<!-- This link will add ?run=true to your URL, myfilename.php?run=true -->
+<a href="?run=true">Click Me!</a>
+
+</body>
+</html>
