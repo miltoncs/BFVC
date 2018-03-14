@@ -1,4 +1,5 @@
 <?php
+echo exec('whoami');
 if ($_GET['run']) {
   # This code will run if ?run=true is set.
   echo exec("/path/to/name.sh");
