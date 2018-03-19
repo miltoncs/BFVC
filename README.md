@@ -1,3 +1,3 @@
 # BFVC
 
-Build the site using (jekyll)[https://jekyllrb.com/]
+Build the site using [jekyll](https://jekyllrb.com/)
