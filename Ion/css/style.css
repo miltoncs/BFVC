@@ -985,8 +985,8 @@
 /* Banner */
 
 	#banner {
-		background-color: #666666;
-		background-image: url("../images/banner.jpg");
+		/*background-color: #666666;*/
+		background-image: url("../images/bible.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -1093,3 +1093,8 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0.85;
+}
