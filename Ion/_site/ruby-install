@@ -1,4 +1,0 @@
-sudo apt-get install ruby-dev -y
-sudo apt-get install ruby2.0-dev -y
-sudo apt-get install ruby2.2-dev -y
-sudo apt-get install ruby2.3-dev -y
