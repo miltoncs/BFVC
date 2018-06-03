@@ -4,10 +4,10 @@
     <title>BFVC</title>
     <description>Bayfront Village Church
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 May 2018 12:38:49 -0400</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 12:38:49 -0400</lastBuildDate>
+    <link>http://bayfrontvillagechurch.com/</link>
+    <atom:link href="http://bayfrontvillagechurch.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Jun 2018 21:37:21 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 21:37:21 -0400</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
     
       <item>
@@ -22,8 +22,8 @@ Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. S
 &lt;p&gt;Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/02/17/Curabitur.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/02/17/Curabitur.html</guid>
+        <link>http://bayfrontvillagechurch.com/2015/02/17/Curabitur.html</link>
+        <guid isPermaLink="true">http://bayfrontvillagechurch.com/2015/02/17/Curabitur.html</guid>
         
         
       </item>
@@ -38,8 +38,8 @@ Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pell
 &lt;p&gt;Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Feb 2015 09:37:44 -0500</pubDate>
-        <link>http://localhost:4000/update/2015/02/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2015/02/06/welcome-to-jekyll.html</guid>
+        <link>http://bayfrontvillagechurch.com/update/2015/02/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://bayfrontvillagechurch.com/update/2015/02/06/welcome-to-jekyll.html</guid>
         
         
         <category>update</category>
@@ -60,8 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla 
 &lt;p&gt;Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/01/30/Lorem.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/30/Lorem.html</guid>
+        <link>http://bayfrontvillagechurch.com/2015/01/30/Lorem.html</link>
+        <guid isPermaLink="true">http://bayfrontvillagechurch.com/2015/01/30/Lorem.html</guid>
         
         
       </item>
