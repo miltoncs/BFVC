@@ -1,0 +1,15 @@
+## Pre-NGINX
+[Unit]
+Description=BFVC Web Server
+After=network.target
+#StartLimitIntervalSec=1
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+#User=ubuntu
+ExecStart=/home/ubuntu/run_server.sh
+
+[Install]
+WantedBy=multi-user.target
