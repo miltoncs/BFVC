@@ -1,4 +1,4 @@
-## Pre-NGINX
+## Pre-NGINX lives in /lib/systemd/system/
 [Unit]
 Description=BFVC Web Server
 After=network.target
